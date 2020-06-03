@@ -1,0 +1,48 @@
+
+.navbar{ 
+    background-color:#009688 !important;
+    
+}
+.navbar-brand img{
+    height: 20px;
+    width: 50px;
+}
+
+.card{
+    margin: 0 auto;
+    width: 50%;
+   
+    -webkit-box-shadow: inset 14px 30px 75px -57px rgba(72,74,87,1);
+    -moz-box-shadow: inset 14px 30px 75px -57px rgba(72,74,87,1);
+    box-shadow: inset 14px 30px 75px -57px rgba(72,74,87,1);
+    
+   
+}
+.card:hover{
+    margin: 0 auto;
+    width: 50%;
+    -webkit-box-shadow: -13px 24px 106px -20px rgba(72,74,87,0.39);
+    -moz-box-shadow: -13px 24px 106px -20px rgba(72,74,87,0.39);
+    box-shadow: -13px 24px 106px -20px rgba(72,74,87,0.39);
+    text-decoration: none;
+}
+a{
+    margin: 0 auto;
+    width: 50%;
+    margin-top: 90px;
+
+}
+button{
+    border-radius: 50%;
+    height: 60px;
+    width: 70px;
+    margin: 10px;
+     background-color: #009688;
+     border-color: aliceblue;
+    position: static;
+     color: white;
+}
+
+button:hover{
+    background-color: #4DB6AC;
+}

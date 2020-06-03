@@ -1,0 +1,27 @@
+.navbar{ 
+    background-color:#009688 !important;
+    
+}
+.navbar-brand img{
+    height: 20px;
+    width: 100px;
+}
+.Centeralization{
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+.btn{
+    color:white;
+    background-color: #009688;
+    border-radius: 20px;
+    
+    width: 140px;
+}
+.btn:hover{
+    color:white;
+    background-color: #4DB6AC;
+    border-radius: 20px;
+    width: 140px;
+}
